@@ -1,6 +1,6 @@
 
 # Minimax and Alpha-beta Pruning for Chess
-Last Updated: 12/13/2020
+Last Updated: 12/13/2020 \n
 Created a chess game where the AI controls both players. Minimax and alpha-beta pruning were implemented to control the AI. The goal of the project was to visualize the speed and depth increase that alpha-beta pruning provides.
 
 # Description
